@@ -1,0 +1,8 @@
+sounddevice
+numpy
+tensorflow
+zipfile
+matplotlib
+librosa
+sklearn
+audiomentations
